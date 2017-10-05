@@ -1,0 +1,102 @@
+body {
+    
+    
+}
+
+
+.intro-banner-style {
+    
+    background-size: cover;
+    background-image: url(../img/annie-spratt-61560.jpg);
+    height: 30rem;
+    width: 100%;
+    
+    margin-bottom: 4rem;
+      
+}
+
+.thumbnail-styles-1 {
+    
+    background-size: cover;
+    background-image: url(../img/aaron-burden-195608.jpg);
+    height: 25rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+.thumbnail-styles-2 {
+    
+    background-size: cover;
+    background-image: url(../img/brooke-lark-229136.jpg);
+    height: 25rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+.thumbnail-styles-3 {
+    
+    background-size: cover;
+    background-image: url(../img/rich-lock-332097.jpg);
+    height: 25rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+.thumbnail-styles-4 {
+    
+    background-size: cover;
+    background-image: url(../img/benjamin-davies-361151.jpg);
+    height: 25rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+.thumbnail-styles-5 {
+    
+    background-size: cover;
+    background-image: url(../img/ehmir-bautista-364387.jpg);
+    height: 25rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+.thumbnail-styles-6 {
+    
+background-size: cover;
+    background-image: url(../img/aaron-burden-195608.jpg);
+    height: 25rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+.photo-description {
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  footer styles go down here */
+.foooter-styles {
+    
+    height: inherit;
+    
+}
+
+
+.footer-space {
+    
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    
+}
+
+
