@@ -34,11 +34,22 @@ font-family: 'Josefin Slab', serif;
     font-size: 4rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    margin-bottom: auto;
+}
+
+.thumb-title {
+    
+    margin-top: 10rem;
+    font-family: 'Josefin Slab', serif;
+    font-size: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: auto;
 }
 
 .logo-style-title {
     
-    font-size: 3rem;
+    font-size: 2.1rem;
     font-family: 'Pacifico', cursive; 
     
 }
@@ -53,7 +64,32 @@ font-family: 'Josefin Slab', serif;
       
 }
 
-.thumbnail-styles-1 {
+.large-thumb {
+    
+    margin-top: 8rem;
+    font-family: 'Josefin Slab', serif;
+    font-size: 5rem;
+    text-decoration: none !important ;
+}
+
+.large-thumb-link-style {
+    
+    text-decoration: none !important ;
+}
+
+.thumnbnail-text {
+    
+    font-family: 'Josefin Slab', serif;
+    text-decoration: none !important;
+}
+
+.thumnb-title {
+    
+    padding-top: 12rem;
+    
+}
+
+.thumbnail-styles-1  {
     
     background-size: cover;
     background-image: url(../img/bridge.jpg);
@@ -112,28 +148,21 @@ background-size: cover;
     
 }
 
-
-
-
-
-
-
-
-
-
-
 /*  footer styles go down here */
 .foooter-styles {
     
     height: inherit;
+    font-family: 'Pacifico', cursive;
     
 }
 
 
 .footer-space {
     
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    font-family: 'Josefin Slab', serif; 
+    font-size: 2rem;
     
 }
 
