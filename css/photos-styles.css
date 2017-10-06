@@ -27,6 +27,13 @@ font-family: 'Josefin Slab', serif;
     
 }
 
+.logo-style-title {
+    
+    font-size: 2.1rem;
+    font-family: 'Pacifico', cursive; 
+    
+}
+
 .front-title {
     
     margin-top: 10rem;
@@ -47,12 +54,6 @@ font-family: 'Josefin Slab', serif;
     margin-bottom: auto;
 }
 
-.logo-style-title {
-    
-    font-size: 2.1rem;
-    font-family: 'Pacifico', cursive; 
-    
-}
 
 .intro-banner-style {
     
