@@ -29,7 +29,7 @@ font-family: 'Josefin Slab', serif;
 
 .front-title {
     
-    margin-top: 15rem;
+    margin-top: 10rem;
     font-family: 'Josefin Slab', serif;
     font-size: 4rem;
     padding-top: 1rem;
@@ -46,8 +46,8 @@ font-family: 'Josefin Slab', serif;
 .intro-banner-style {
     
     background-size: cover;
-    background-image: url(../img/family-bench.jpg);
-    height: 45rem;
+    background-image: url(../img/BEACH-FAMILY005.jpg);
+    height: 40rem;
     width: 100%;
     margin-bottom: auto;
       
@@ -74,7 +74,7 @@ font-family: 'Josefin Slab', serif;
 .thumbnail-styles-3 {
     
     background-size: cover;
-    background-image: url(../img/);
+    background-image: url(../img/jake.jpg);
     height: 25rem;
     
     
@@ -83,7 +83,7 @@ font-family: 'Josefin Slab', serif;
 .thumbnail-styles-4 {
     
     background-size: cover;
-    background-image: url(../img/benjamin-davies-361151.jpg);
+    background-image: url(../img/marcus-family004.jpg);
     height: 25rem;
     
     
@@ -92,7 +92,7 @@ font-family: 'Josefin Slab', serif;
 .thumbnail-styles-5 {
     
     background-size: cover;
-    background-image: url(../img/ehmir-bautista-364387.jpg);
+    background-image: url(../img/BEACH-FAMILY003.jpg);
     height: 25rem;
     
     
