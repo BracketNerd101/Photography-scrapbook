@@ -3,20 +3,53 @@ body {
     
 }
 
+/*------- 
+
+font-family: 'Pacifico', cursive;
+font-family: 'Josefin Slab', serif; 
+
+------------*/
+
 
 .photo-nav-styles {
     
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    border-bottom: 4px #d2d2d2 transparent
+    
+}
+
+
+.logo-style {
+    
+    font-size: 3.5rem;
+    font-family: 'Josefin Slab', serif; 
+    
+}
+
+.front-title {
+    
+    margin-top: 15rem;
+    font-family: 'Josefin Slab', serif;
+    font-size: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.logo-style-title {
+    
+    font-size: 3rem;
+    font-family: 'Pacifico', cursive; 
     
 }
 
 .intro-banner-style {
     
     background-size: cover;
-    background-image: url(../img/annie-spratt-61560.jpg);
-    height: 30rem;
+    background-image: url(../img/);
+    height: 35rem;
     width: 100%;
-    
-    margin-bottom: 4rem;
+    margin-bottom: auto;
       
 }
 
@@ -25,7 +58,7 @@ body {
     background-size: cover;
     background-image: url(../img/aaron-burden-195608.jpg);
     height: 25rem;
-    margin-bottom: 2.5rem;
+    
     
 }
 
@@ -34,7 +67,7 @@ body {
     background-size: cover;
     background-image: url(../img/brooke-lark-229136.jpg);
     height: 25rem;
-    margin-bottom: 2.5rem;
+    
     
 }
 
@@ -43,7 +76,7 @@ body {
     background-size: cover;
     background-image: url(../img/rich-lock-332097.jpg);
     height: 25rem;
-    margin-bottom: 2.5rem;
+    
     
 }
 
@@ -52,7 +85,7 @@ body {
     background-size: cover;
     background-image: url(../img/benjamin-davies-361151.jpg);
     height: 25rem;
-    margin-bottom: 2.5rem;
+    
     
 }
 
@@ -61,7 +94,7 @@ body {
     background-size: cover;
     background-image: url(../img/ehmir-bautista-364387.jpg);
     height: 25rem;
-    margin-bottom: 2.5rem;
+    
     
 }
 
@@ -70,7 +103,7 @@ body {
 background-size: cover;
     background-image: url(../img/aaron-burden-195608.jpg);
     height: 25rem;
-    margin-bottom: 2.5rem;
+    
     
 }
 
