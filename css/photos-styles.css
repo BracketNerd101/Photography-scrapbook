@@ -3,60 +3,135 @@ body {
     
 }
 
+/*------- 
+
+font-family: 'Pacifico', cursive;
+font-family: 'Josefin Slab', serif; 
+
+------------*/
+
+
+.photo-nav-styles {
+    
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    border-bottom: 4px #d2d2d2 transparent;
+    
+}
+
+
+.logo-style {
+    
+    font-size: 3.5rem;
+    font-family: 'Josefin Slab', serif; 
+    
+}
+
+.logo-style-title {
+    
+    font-size: 2.1rem;
+    font-family: 'Pacifico', cursive; 
+    
+}
+
+.front-title {
+    
+    margin-top: 10rem;
+    font-family: 'Josefin Slab', serif;
+    font-size: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: auto;
+}
+
+.thumb-title {
+    
+    margin-top: 10rem;
+    font-family: 'Josefin Slab', serif;
+    font-size: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: auto;
+}
+
 
 .intro-banner-style {
     
     background-size: cover;
-    background-image: url(../img/annie-spratt-61560.jpg);
-    height: 30rem;
+    background-image: url(../img/BEACH-FAMILY005.jpg);
+    height: 40rem;
     width: 100%;
-    
-    margin-bottom: 4rem;
+    margin-bottom: auto;
       
 }
 
-.thumbnail-styles-1 {
+.large-thumb {
+    
+    margin-top: 8rem;
+    font-family: 'Josefin Slab', serif;
+    font-size: 5rem;
+    text-decoration: none !important ;
+}
+
+.large-thumb-link-style {
+    
+    text-decoration: none !important ;
+}
+
+.thumnbnail-text {
+    
+    font-family: 'Josefin Slab', serif;
+    text-decoration: none !important;
+}
+
+.thumnb-title {
+    
+    padding-top: 12rem;
+    
+}
+
+.thumbnail-styles-1  {
     
     background-size: cover;
-    background-image: url(../img/aaron-burden-195608.jpg);
+    background-image: url(../img/bridge.jpg);
     height: 25rem;
-    margin-bottom: 1.5rem;
+    
     
 }
 
 .thumbnail-styles-2 {
     
     background-size: cover;
-    background-image: url(../img/brooke-lark-229136.jpg);
+    background-image: url(../img/cloud.JPG);
     height: 25rem;
-    margin-bottom: 1.5rem;
+    
     
 }
 
 .thumbnail-styles-3 {
     
     background-size: cover;
-    background-image: url(../img/rich-lock-332097.jpg);
+    background-image: url(../img/jake.jpg);
     height: 25rem;
-    margin-bottom: 1.5rem;
+    
     
 }
 
 .thumbnail-styles-4 {
     
     background-size: cover;
-    background-image: url(../img/benjamin-davies-361151.jpg);
+    background-image: url(../img/marcus-family004.jpg);
     height: 25rem;
-    margin-bottom: 1.5rem;
+    
     
 }
 
 .thumbnail-styles-5 {
     
     background-size: cover;
-    background-image: url(../img/ehmir-bautista-364387.jpg);
+    background-image: url(../img/BEACH-FAMILY003.jpg);
     height: 25rem;
-    margin-bottom: 1.5rem;
+    
     
 }
 
@@ -65,7 +140,7 @@ body {
 background-size: cover;
     background-image: url(../img/aaron-burden-195608.jpg);
     height: 25rem;
-    margin-bottom: 1.5rem;
+    
     
 }
 
@@ -74,28 +149,21 @@ background-size: cover;
     
 }
 
-
-
-
-
-
-
-
-
-
-
 /*  footer styles go down here */
 .foooter-styles {
     
     height: inherit;
+    font-family: 'Pacifico', cursive;
     
 }
 
 
 .footer-space {
     
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    font-family: 'Josefin Slab', serif; 
+    font-size: 2rem;
     
 }
 
