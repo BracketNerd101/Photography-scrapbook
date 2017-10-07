@@ -159,8 +159,11 @@ img {
     margin-right: auto;
     min-width: 100%;
     z-index: -3;
-    background-size: cover;
-    
-    
+    background-size: cover; 
     
 }
+
+
+/* About.html css goes below */
+
+

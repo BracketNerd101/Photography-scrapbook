@@ -92,7 +92,7 @@ font-family: 'Josefin Slab', serif;
 
 .thumnb-title {
     
-    padding-top: 12rem;
+    padding-top: 7rem;
     
 }
 
@@ -100,7 +100,7 @@ font-family: 'Josefin Slab', serif;
     
     background-size: cover;
     background-image: url(../img/bridge.jpg);
-    height: 20rem;
+    height: 18rem;
     
     
 }
@@ -109,7 +109,7 @@ font-family: 'Josefin Slab', serif;
     
     background-size: cover;
     background-image: url(../img/cloud.JPG);
-    height: 20rem;
+    height: 18rem;
     
     
 }
@@ -118,7 +118,7 @@ font-family: 'Josefin Slab', serif;
     
     background-size: cover;
     background-image: url(../img/jake.jpg);
-    height: 20rem;
+    height: 18rem;
     
     
 }
@@ -127,7 +127,7 @@ font-family: 'Josefin Slab', serif;
     
     background-size: cover;
     background-image: url(../img/marcus-family004.jpg);
-    height: 20rem;
+    height: 18rem;
     
     
 }
@@ -136,7 +136,7 @@ font-family: 'Josefin Slab', serif;
     
     background-size: cover;
     background-image: url(../img/BEACH-FAMILY003.jpg);
-    height: 20rem;
+    height: 18rem;
     
     
 }
@@ -145,7 +145,7 @@ font-family: 'Josefin Slab', serif;
     
 background-size: cover;
     background-image: url(../img/aaron-burden-195608.jpg);
-    height: 20rem;
+    height: 18rem;
     
 }
 
@@ -160,7 +160,7 @@ background-size: cover;
 .hover-style:hover {
 	
     opacity: 0.7;
-    transition: 0.4s;
+    transition: 0.1s;
 }
 
 /*CSS for porfolio page */
