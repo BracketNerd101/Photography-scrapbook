@@ -1,0 +1,128 @@
+body {
+    
+    
+}
+
+
+/*------- 
+
+font-family: 'Pacifico', cursive;
+font-family: 'Josefin Slab', serif; 
+
+------------*/
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+}
+
+.spot-title {
+    
+    font-family: 'Josefin Slab', serif;  
+    
+}
+
+.spot-description {
+    
+    background-color: #fff;
+    border-bottom: 4px #d2d2d2 transparent;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+/*
+    position: fixed;
+    top: 4rem; */
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    background-color: 
+}
+
+
+.project-spot-1 {
+    
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+    
+}
+
+
+.project-spot-2 {
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+}
+.project-spot-3 {
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+    
+}
+
+.project-spot-4 {
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+    
+}
+
+.project-spot-5 {
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+    
+}
+
+.project-spot-6 {
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+    
+    
+}
+
+.project-spot-7 {
+    
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    
+    
+    
+}
+
