@@ -10,6 +10,12 @@ font-family: 'Josefin Slab', serif;
 
 ------------*/
 
+.navbar-toggler{
+    
+    border: 0px transparent !important;
+    font-family: 'Josefin Slab', serif; 
+}
+
 
 .photo-nav-styles {
     
