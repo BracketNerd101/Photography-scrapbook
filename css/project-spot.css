@@ -166,4 +166,39 @@ img {
 
 /* About.html css goes below */
 
+.about-styles {
+    
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    font-family: 'Josefin Slab', serif;
+    text-decoration: none !important;
+}
+
+.profile-img {
+    
+    width: 205px; 
+    height: 205px;
+    z-index: 9000;
+    
+}
+
+.photo-padding-style{
+    
+    margin-top: -6rem;
+}
+
+.about-body-text {
+    
+    font-family: 'helvetica', sans-serif serif;
+    text-decoration: none !important;
+}
+
+
+.about-text-style {
+    
+    text-decoration: none !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 5rem;
+}
 
