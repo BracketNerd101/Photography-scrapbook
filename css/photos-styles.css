@@ -141,7 +141,21 @@ background-size: cover;
     background-image: url(../img/aaron-burden-195608.jpg);
     height: 25rem;
     
-    
+}
+
+.hover-style  {
+	
+    background-color: #1abc9c;
+}
+.hover-style  {
+	
+    opacity: 1;
+}
+.hover-style:hover {
+	
+    opacity: 0.7;
+    color: dimgrey;
+    transition: 0.1s;
 }
 
 .photo-description {
