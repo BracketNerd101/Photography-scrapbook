@@ -174,11 +174,18 @@ img {
     text-decoration: none !important;
 }
 
+.border-white{   
+    
+    border: 6px solid #fff !important;
+
+}
+
 .profile-img {
     
     width: 205px; 
     height: 205px;
     z-index: 9000;
+    border-bottom: 8px solid #333; 
     
 }
 
