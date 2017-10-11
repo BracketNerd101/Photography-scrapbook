@@ -11,6 +11,10 @@ font-family: 'Josefin Slab', serif;
 
 ------------*/
 
+.wow { visibility: hidden; 
+
+}
+
 img {
     display: inline-block;
     vertical-align: middle;
